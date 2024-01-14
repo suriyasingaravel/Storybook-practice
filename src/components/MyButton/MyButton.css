@@ -1,0 +1,39 @@
+button{
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 3em;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
+
+
+.primary{
+    color:teal;
+    background-color: aquamarine;
+}
+
+.secondary{
+    color:rgb(0, 0, 0);
+    background-color: rgb(123, 179, 60);
+}
+
+
+.small{
+    height:40px;
+    width: 100px;
+    font-size: small;
+}
+
+.medium{
+    height:50px;
+    width: 120px;
+    font-size: medium;
+}
+
+.large{
+    height:60px;
+    width: 140px;
+    font-size: large;
+}
